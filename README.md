@@ -1,2 +1,5 @@
 # Team-Elite-Empowher-project-
-A text file of the source code for the website and a presentation describing the website
+##introduction
+Our aim is to help in the effort to make women financially independent.
+
+team members: Prabhjeet Singh,Tejassveer singh,Jasmeet Kaur,Ramanpreet Kaur
